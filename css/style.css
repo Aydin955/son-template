@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parallax{
+    background: url("../img/hero-1.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
